@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : เมธัส นายสู่
 
-Vercel URL :
+Vercel URL : https://lab07-680610708.vercel.app/
 
 ---
 
