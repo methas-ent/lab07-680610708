@@ -254,9 +254,9 @@ app.get('/api/me',(req:Request,res:Response)=>{
     studentId: "680610708"
   })
   } catch(err){
-    return res.json({
+    return res.status(404).json({
       ok:false,
-      message: "Something is wrong, please try again",
+      message: "Not found data",
       error: err,
     })
   }
