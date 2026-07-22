@@ -263,8 +263,8 @@ app.get('/api/me',(req:Request,res:Response)=>{
 
 })
 
-app.listen(port, async () => {
-  console.log(`🚀 Server running on http://localhost:${port}`);
-});
+// app.listen(port, async () => {
+//   console.log(`🚀 Server running on http://localhost:${port}`);
+// });
 
 export default app;
