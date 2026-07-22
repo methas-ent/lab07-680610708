@@ -1,5 +1,5 @@
 {
-  "name": "lec06",
+  "name": "lab07-680610708",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "^11.13.0",
+      "version": "11.15.1",
       "onFail": "download"
     }
   },
