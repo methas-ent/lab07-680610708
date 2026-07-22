@@ -1,7 +1,7 @@
 {
   "name": "lab07-680610708",
   "version": "1.0.0",
-  "packageManager": "pnpm@10.28.1",
+  "packageManager": "pnpm@11.15.1",
   "description": "",
   "main": "index.js",
   "scripts": {
